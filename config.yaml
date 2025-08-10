@@ -1,0 +1,9 @@
+alerts:
+- comparator: '>'
+  id: 3f2e7b9a-1c9d-4f02-bf5d-3eaeef4e7f22
+  metric: cpu_percent
+  name: High CPU
+  threshold: 1
+telegram:
+  chat_id: x
+  token: x
