@@ -4,7 +4,7 @@
 ---
 
 ## **Overview**
-Warlock Monitor is a Linux-style command-line tool for real-time system monitoring and alerting.  
+Warlock Monitor is a command-line tool for real-time system monitoring and alerting.  
 It allows you to define flexible alert rules for various system metrics (CPU, memory, disk, network, etc.) and receive instant notifications via Telegram.  
 
 Designed for developers, system administrators, and enthusiasts who value simplicity, extensibility.
